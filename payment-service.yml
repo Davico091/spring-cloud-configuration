@@ -4,3 +4,5 @@ spring:
     name: retoIntegrador
     username: root
     password: mysql
+server:
+  port: 8081
